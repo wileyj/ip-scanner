@@ -34,5 +34,5 @@ make %{?_smp_mflags}
 %{_sbindir}/ipscan
 
 %changelog
-* Tue Dec 10 2013 Jesse Wiley<jesse.wiley@viacom.com> - 0.0.1-1
+* Tue Dec 10 2013 Jesse Wiley<user@local.com> - 0.0.1-1
 - initial build.
